@@ -6,12 +6,12 @@ Each activity touches on a different concept (or multiple concepts) for Kotlin a
 
 0. Introduction to Kotlin
 1. Parameters
-2. Lambda and Functions
+2. Lambdas and Functions
 3. Nullability and Smart Casts (including Kotlin datatypes)
 4. The `when` Statement and Other Control Constructs
 5. Data Classes
 6. Functional Collections
 7. Operator Overloading
 8. Properties
-9. SAM Conversions
+9. Java Inter-Op and SAM Conversions
  
