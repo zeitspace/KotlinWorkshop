@@ -15,16 +15,7 @@ fun main(args: Array<String>) {
         "0"
     )
 
-    val expected = mutableListOf<String>()
-    expected.add(numbers.sumIntStringsSoln().toString())
-    expected.add(people.getFavouriteFoodsSoln().toString())
-    expected.add(people.getFavouriteFoodsSoln("Waterloo").toString())
-    expected.add(people.anybodyFromCitySoln("Toronto").toString())
-    expected.add(people.anybodyFromCitySoln("Waterloo").toString())
-    expected.add(people.anybodyFromCitySoln("Milton").toString())
-    expected.add(people.getAllSongsSoln().toString())
-    expected.add(people.subList(0, 2).getAllSongsSoln().toString())
-    expected.add(people.getPeopleWithLotsOfSongsSoln().toString())
+    val expected = "[3, [Pizza, Ice Cream, Chicken, Burgers, Candy], [Chicken], true, true, false, [All Star, Bohemian Rhapsody, Party Rock Anthem, I Gotta Feeling, Macarena, Hey Jude, Uptown Funk!, Never Gonna Give You Up], [All Star, Bohemian Rhapsody, Party Rock Anthem, I Gotta Feeling], [Person(name=Sarah, city=Kitchener, favouriteFood=Ice Cream, favouriteSongs=[Bohemian Rhapsody, Party Rock Anthem, I Gotta Feeling]), Person(name=Sally, city=Waterloo, favouriteFood=Chicken, favouriteSongs=[Macarena, Hey Jude, Uptown Funk!]), Person(name=Jenny, city=Kitchener, favouriteFood=Candy, favouriteSongs=[Never Gonna Give You Up, Bohemian Rhapsody, Uptown Funk!])]]"
 
     val result = mutableListOf<String>()
     result.add(numbers.sumIntStrings().toString())
@@ -37,7 +28,7 @@ fun main(args: Array<String>) {
     result.add(people.subList(0, 2).getAllSongs().toString())
     result.add(people.getPeopleWithLotsOfSongs().toString())
 
-    if (expected == result) {
+    if (result.toString() == expected) {
         println("Your results were correct!")
     } else {
         println("Your results are: \n$result\nThe expected results are: \n$expected")
