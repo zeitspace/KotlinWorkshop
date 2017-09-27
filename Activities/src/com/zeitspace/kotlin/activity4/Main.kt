@@ -50,5 +50,9 @@ fun main(args: Array<String>) {
     result.add(switchType(myData2))
     result.add(switchType(obj2))
 
-    println("Your results are: \n$result\nThe expected results are: \n$expected")
+    if (expected == result) {
+        println("Your results were correct!")
+    } else {
+        println("Your results are: \n$result\nThe expected results are: \n$expected")
+    }
 }

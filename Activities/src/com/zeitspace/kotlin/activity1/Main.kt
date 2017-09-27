@@ -1,15 +1,20 @@
 package com.zeitspace.kotlin.activity1
 
 fun main(args: Array<String>) {
-//    val expected = mutableListOf<String>()
-//    expected.add(activity1Soln("john_doe@mail.com", age = 26))
-//    expected.add(activity1Soln("sarah_connor@yahoo.com", "Sarah", "Connor"))
-//    expected.add(activity1Soln("baby@mail.com", firstName = "Baby", age = 1))
-//
-//    val result = mutableListOf<String>()
+    val expected = mutableListOf<String>()
+    expected.add(activity1Soln("john_doe@mail.com", age = 26))
+    expected.add(activity1Soln("sarah_connor@yahoo.com", "Sarah", "Connor"))
+    expected.add(activity1Soln("baby@mail.com", firstName = "Baby", age = 1))
+
+    val result = mutableListOf<String>()
+    /* Uncomment after you've defined and implemented your methods */
 //    result.add(activity1("john_doe@mail.com", age = 26))
 //    result.add(activity1("sarah_connor@yahoo.com", "Sarah", "Connor"))
 //    result.add(activity1("baby@mail.com", firstName = "Baby", age = 1))
-//
-//    println("Your results are: \n$result\nThe expected results are: \n$expected")
+
+    if (expected == result) {
+        println("Your results were correct!")
+    } else {
+        println("Your results are: \n$result\nThe expected results are: \n$expected")
+    }
 }

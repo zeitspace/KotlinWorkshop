@@ -14,3 +14,5 @@ with the plural on year depending on the age.
 
 #### Notes ####
 Kotlin documentation around the features required can be found [here](https://kotlinlang.org/docs/reference/functions.html).
+
+You'll have to uncomment the commented code in `Main.kt` to run your methods after you've define and implemented them.

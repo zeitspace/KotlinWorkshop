@@ -9,8 +9,7 @@ Each activity touches on a different concept (or multiple concepts) for Kotlin a
 2. Lambdas and Functions
 3. Nullability and Smart Casts (including Kotlin datatypes)
 4. The `when` Statement and Other Control Constructs
-5. Functional Collections
+5. Functional Collections and Extension Methods
 6. Operator Overloading
-7. Properties
-8. Java Inter-Op and SAM Conversions
+7. Java Inter-Op and SAM Conversions
  

@@ -15,41 +15,21 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/com/zeitspace/kotlin/activity4/README.md">
+          <file leaf-file-name="Main.kt" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/com/zeitspace/kotlin/activity5/Main.kt">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="153">
-                  <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+                <state relative-caret-position="289">
+                  <caret line="37" column="60" lean-forward="true" selection-start-line="37" selection-start-column="60" selection-end-line="43" selection-end-column="5" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Activity4Solution.kt" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/zeitspace/kotlin/activity4/Activity4Solution.kt">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="323">
-                  <caret line="19" column="18" lean-forward="false" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Activity4.kt" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/zeitspace/kotlin/activity4/Activity4.kt">
+          <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/com/zeitspace/kotlin/activity5/README.md">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="170">
-                  <caret line="10" column="42" lean-forward="false" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Main.kt" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/zeitspace/kotlin/activity4/Main.kt">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="450">
-                  <caret line="50" column="30" lean-forward="false" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
+                  <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -59,11 +39,21 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="Activity4Solution.kt" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/com/zeitspace/kotlin/activity4/Activity4Solution.kt">
+          <file leaf-file-name="Main.kt" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/com/zeitspace/kotlin/activity5/Main.kt">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="374">
-                  <caret line="22" column="66" lean-forward="false" selection-start-line="22" selection-start-column="66" selection-end-line="22" selection-end-column="66" />
+                <state relative-caret-position="119">
+                  <caret line="7" column="73" lean-forward="false" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Activity5Solution.kt" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/com/zeitspace/kotlin/activity5/Activity5Solution.kt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="306">
+                  <caret line="18" column="45" lean-forward="false" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
                   <folding />
                 </state>
               </provider>
@@ -85,6 +75,9 @@
     <findStrings>
       <find>Soln</find>
     </findStrings>
+    <replaceStrings>
+      <replace>result</replace>
+    </replaceStrings>
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -98,23 +91,28 @@
         <option value="$PROJECT_DIR$/src/com/zeitspace/kotlin/activity0/Main.kt" />
         <option value="$PROJECT_DIR$/src/com/zeitspace/kotlin/activity0/Activity0Solution.kt" />
         <option value="$PROJECT_DIR$/src/com/zeitspace/kotlin/activity1/Activity1Solution.kt" />
-        <option value="$PROJECT_DIR$/src/com/zeitspace/kotlin/activity1/README.md" />
         <option value="$PROJECT_DIR$/src/com/zeitspace/kotlin/activity1/Activity1.kt" />
         <option value="$PROJECT_DIR$/src/com/zeitspace/kotlin/activity0/README.md" />
         <option value="$PROJECT_DIR$/src/com/zeitspace/kotlin/activity2/Activity2Solution.kt" />
-        <option value="$PROJECT_DIR$/src/com/zeitspace/kotlin/activity2/README.md" />
-        <option value="$PROJECT_DIR$/src/com/zeitspace/kotlin/activity1/Main.kt" />
-        <option value="$PROJECT_DIR$/src/com/zeitspace/kotlin/activity2/Main.kt" />
         <option value="$PROJECT_DIR$/src/com/zeitspace/kotlin/activity2/Activity2.kt" />
         <option value="$PROJECT_DIR$/src/com/zeitspace/kotlin/activity3/Activity3Solution.kt" />
-        <option value="$PROJECT_DIR$/src/com/zeitspace/kotlin/activity3/Main.kt" />
         <option value="$PROJECT_DIR$/src/com/zeitspace/kotlin/activity3/Activity3.kt" />
         <option value="$PROJECT_DIR$/src/com/zeitspace/kotlin/activity3/README.md" />
         <option value="$PROJECT_DIR$/src/com/zeitspace/kotlin/activity4/Activity4.kt" />
         <option value="$PROJECT_DIR$/src/com/zeitspace/kotlin/activity4/MyData.kt" />
-        <option value="$PROJECT_DIR$/src/com/zeitspace/kotlin/activity4/Main.kt" />
         <option value="$PROJECT_DIR$/src/com/zeitspace/kotlin/activity4/Activity4Solution.kt" />
         <option value="$PROJECT_DIR$/src/com/zeitspace/kotlin/activity4/README.md" />
+        <option value="$PROJECT_DIR$/src/com/zeitspace/kotlin/activity5/Person.kt" />
+        <option value="$PROJECT_DIR$/src/com/zeitspace/kotlin/activity5/Activity5Solution.kt" />
+        <option value="$PROJECT_DIR$/src/com/zeitspace/kotlin/activity5/Activity5.kt" />
+        <option value="$PROJECT_DIR$/src/com/zeitspace/kotlin/activity5/README.md" />
+        <option value="$PROJECT_DIR$/src/com/zeitspace/kotlin/activity5/Main.kt" />
+        <option value="$PROJECT_DIR$/src/com/zeitspace/kotlin/activity4/Main.kt" />
+        <option value="$PROJECT_DIR$/src/com/zeitspace/kotlin/activity3/Main.kt" />
+        <option value="$PROJECT_DIR$/src/com/zeitspace/kotlin/activity2/Main.kt" />
+        <option value="$PROJECT_DIR$/src/com/zeitspace/kotlin/activity2/README.md" />
+        <option value="$PROJECT_DIR$/src/com/zeitspace/kotlin/activity1/Main.kt" />
+        <option value="$PROJECT_DIR$/src/com/zeitspace/kotlin/activity1/README.md" />
       </list>
     </option>
   </component>
@@ -156,28 +154,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Activities" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Activities" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Activities" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kotlin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="activity8" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -378,7 +354,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Activity 4">
+  <component name="RunManager" selected="Kotlin.Activity 5">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -738,12 +714,25 @@
       <envs />
       <method />
     </configuration>
-    <list size="5">
+    <configuration default="false" name="Activity 5" type="JetRunConfigurationType" factoryName="Kotlin">
+      <option name="MAIN_CLASS_NAME" value="com.zeitspace.kotlin.activity5.MainKt" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Activities" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Kotlin.Activity 0" />
       <item index="1" class="java.lang.String" itemvalue="Kotlin.Activity 1" />
       <item index="2" class="java.lang.String" itemvalue="Kotlin.Activity 2" />
       <item index="3" class="java.lang.String" itemvalue="Kotlin.Activity 3" />
       <item index="4" class="java.lang.String" itemvalue="Kotlin.Activity 4" />
+      <item index="5" class="java.lang.String" itemvalue="Kotlin.Activity 5" />
     </list>
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
@@ -763,12 +752,12 @@
       <option name="presentableId" value="Default" />
       <updated>1506379391400</updated>
       <workItem from="1506379393159" duration="1919000" />
-      <workItem from="1506438685440" duration="12713000" />
+      <workItem from="1506438685440" duration="15568000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14632000" />
+    <option name="totallyTimeSpent" value="17487000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1023" extended-state="6" />
@@ -871,22 +860,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zeitspace/kotlin/activity1/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="122" lean-forward="false" selection-start-line="15" selection-start-column="122" selection-end-line="15" selection-end-column="122" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zeitspace/kotlin/activity1/Main.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zeitspace/kotlin/activity2/Activity2Solution.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -899,22 +872,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zeitspace/kotlin/activity2/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="216" lean-forward="false" selection-start-line="9" selection-start-column="216" selection-end-line="9" selection-end-column="216" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zeitspace/kotlin/activity2/Main.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="17" selection-end-column="83" />
           <folding />
         </state>
       </provider>
@@ -951,22 +908,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zeitspace/kotlin/activity3/Main.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zeitspace/kotlin/activity4/Activity4.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="42" lean-forward="false" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zeitspace/kotlin/activity4/MyData.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -975,10 +916,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zeitspace/kotlin/activity4/Main.kt">
+    <entry file="file://$PROJECT_DIR$/src/com/zeitspace/kotlin/activity4/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="50" column="30" lean-forward="false" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
+        <state relative-caret-position="153">
+          <caret line="9" column="40" lean-forward="false" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
           <folding />
         </state>
       </provider>
@@ -991,10 +932,98 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zeitspace/kotlin/activity4/README.md">
+    <entry file="file://$PROJECT_DIR$/src/com/zeitspace/kotlin/activity4/Activity4.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="42" lean-forward="false" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zeitspace/kotlin/activity5/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zeitspace/kotlin/activity5/Person.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="85" lean-forward="false" selection-start-line="2" selection-start-column="85" selection-end-line="2" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zeitspace/kotlin/activity5/Activity5Solution.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="45" lean-forward="false" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zeitspace/kotlin/activity5/Activity5.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="71" lean-forward="false" selection-start-line="10" selection-start-column="71" selection-end-line="10" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zeitspace/kotlin/activity4/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="56" column="5" lean-forward="false" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zeitspace/kotlin/activity3/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zeitspace/kotlin/activity2/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="11" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zeitspace/kotlin/activity2/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="118" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zeitspace/kotlin/activity1/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="118" lean-forward="false" selection-start-line="17" selection-start-column="118" selection-end-line="17" selection-end-column="118" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zeitspace/kotlin/activity1/Main.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+          <caret line="9" column="69" lean-forward="false" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zeitspace/kotlin/activity5/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="37" column="60" lean-forward="true" selection-start-line="37" selection-start-column="60" selection-end-line="43" selection-end-column="5" />
           <folding />
         </state>
       </provider>

@@ -1,5 +1,5 @@
 # Kotlin Workshop #
-## Activity 0 (Introduction to Kotlin) ##
+## Activity 5 (Functional Collections and Extension Methods) ##
 
 #### Description ####
 

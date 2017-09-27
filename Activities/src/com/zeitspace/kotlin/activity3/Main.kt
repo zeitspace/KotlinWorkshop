@@ -15,5 +15,9 @@ fun main(args: Array<String>) {
     result.add(anyAdd(100, "256"))
     result.add(anyAdd(200, null))
 
-    println("Your results are: \n$result\nThe expected results are: \n$expected")
+    if (expected == result) {
+        println("Your results were correct!")
+    } else {
+        println("Your results are: \n$result\nThe expected results are: \n$expected")
+    }
 }
