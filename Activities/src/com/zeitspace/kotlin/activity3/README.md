@@ -1,5 +1,5 @@
 # Kotlin Workshop #
-## Activity 0 (Nullability and Smart Casts) ##
+## Activity 3 (Nullability and Smart Casts) ##
 
 #### Description ####
 For this activity, you will deal with both nullable types as well as Any types with smart casting. Kotlin include a large set of different operators to deal with nullable data types that should help keep those pesky NPEs out of your code.
